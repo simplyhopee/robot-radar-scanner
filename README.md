@@ -53,11 +53,11 @@ Angle: 30° | Distance: 34 cm
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](robot_radar_scanner_circuit.png)
 
 ### Simulation
 
-![Simulation](images/simulation.png)
+![Simulation](robot_radar_scanner_circuit_simulation.png)
 
 ## Skills Demonstrated
 
